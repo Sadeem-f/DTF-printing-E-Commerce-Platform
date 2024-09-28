@@ -1,5 +1,3 @@
-A dynamic e-commerce website specializing in DTF sheet printing. It allows users to upload artwork, use an online DTF sheet designer, and order custom prints. The platform also offers manual background removal and vectorization services, alongside a store for DTF printers and consumables.
-
 ## Key Features
 - **User-Friendly Design**: The website is designed to offer an intuitive experience for all users.
 - **Online DTF Sheet Designer**: Customers can upload their artwork and utilize an integrated design tool.
